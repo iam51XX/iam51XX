@@ -5,7 +5,7 @@
 
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=28&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+profile+page!;I+love+database+and+AI+!" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=28&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+profile+page!;Learn+Unlearn+Relearn!" alt="Hello World" title="Hello World"/>
 </p>
 
 <p align="center">
